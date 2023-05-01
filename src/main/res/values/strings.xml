@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StreamingVideoApp</string>
+    <string name="location_permission_msg">Location Permission Needed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="in_">in</string>
+    <string name="feels_like">Feels like</string>
+    <string name="forecast">See the specific city forecast</string>
+    <string name="welcome_to_streaming_app">Welcome to Streaming App !</string>
+    <string name="click_next">Click Next</string>
+    <!--    <string name="today">Today's forecast</string>-->
+</resources>
